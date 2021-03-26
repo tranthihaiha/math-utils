@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Create CI | a process | © 2021 hatran
+name: MathUtil project | CI process included | © 2021 by hatran
 
 # Controls when the action will run. 
 on:
